@@ -1,10 +1,10 @@
-# 🚗 Gestion d'un Parc de Voitures en C
+# ⭐ Gestion d'un Parc de Voitures en C
 
 Ce projet est une application console développée en **C** permettant de gérer un inventaire de véhicules. Il a été réalisé dans le cadre de mes révisions pratiques pour maîtriser la manipulation des structures complexes et la gestion des tableaux en C.
 
 ---
 
-## 🚀 Fonctionnalités
+## ⭐ Fonctionnalités
 
 Le programme est entièrement modulaire et découpé en fonctions indépendantes pour accomplir les tâches suivantes :
 1. **Saisie d'un véhicule** (`SaisirVoiture`) : Enregistre de manière interactive la marque, le modèle, l'année et le prix d'une voiture.
@@ -15,7 +15,7 @@ Le programme est entièrement modulaire et découpé en fonctions indépendantes
 
 ---
 
-## 🛠️ Compétences Techniques Démontrées
+## ⭐ Compétences Techniques Démontrées
 
 En développant ce code sans assistance automatisée, j'ai validé les concepts clés suivants :
 * **Structures en C (`struct`)** : Encapsulation de types de données hétérogènes (chaînes, entiers, réels).
@@ -25,7 +25,7 @@ En développant ce code sans assistance automatisée, j'ai validé les concepts 
 
 ---
 
-## 💻 Comment Exécuter le Projet
+## ⭐ Comment Exécuter le Projet
 
 ### Prérequis
 Un compilateur C standard (comme `GCC`) et un environnement de développement (comme VS Code avec l'extension Code Runner).
